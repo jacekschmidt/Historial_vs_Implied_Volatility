@@ -1,5 +1,8 @@
 # Historic vs Implied Volatility
 
+**Report (PDF):** [[Zenodo DOI]()]  
+**Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Historial_vs_Implied_Volatility/edit/main/README.md)]
+
 ## Introduction
 
 In every quantitative model of an asset price, two components determine its dynamics: a deterministic drift term and a stochastic volatility term. The drift, or trend, represents the expected average direction of the asset; for example, this may correspond to a long-term upward trajectory or to cyclical behaviour, depending on the data and the chosen specification. Because the drift is highly sensitive to the sample period and modelling choices, its estimation is often subjective. The stochastic component, volatility, measures the random deviations from this trend. It governs the magnitude of fluctuations in asset prices and is directly linked to the risk borne by investors. In share and derivatives markets, volatility plays a central role: higher volatility implies a wider distribution of possible outcomes for an asset, which translates into greater uncertainty in the valuation of options. As such, volatility estimation is the cornerstone of both risk management and derivative pricing. Beyond derivative markets, volatility is also critical in applications such as portfolio allocation, Value-at-Risk (VaR) calculations, and stress testing.
