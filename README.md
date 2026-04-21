@@ -1,6 +1,6 @@
 # Historic vs Implied Volatility
 
-**Report (PDF):** [[Zenodo DOI]()]  
+**Report (PDF):** [[Zenodo DOI](https://doi.org/10.5281/zenodo.19674612)]  
 **Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Historial_vs_Implied_Volatility/edit/main/README.md)]
 
 ## Introduction
